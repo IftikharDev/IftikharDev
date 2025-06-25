@@ -4,11 +4,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iftikhardev&label=Profile%20views&color=0e75b6&style=flat" alt="iftikhardev" />
 </p>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 ---
 
 ### 👨‍💻 About Me
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
+
 
 - 🔭 I’m currently working at **Programming Hero**
 - 🌱 I’m currently deep diving into **MERN Stack Development**
