@@ -62,10 +62,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iftikhardev&theme=onedark&column=7" alt="Trophies" />
 </p>
 
----
 
-### 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iftikhardev/iftikhardev/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
