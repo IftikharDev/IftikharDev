@@ -28,9 +28,10 @@
   <a href="https://www.linkedin.com/in/deviftikhar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/eitaamar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30" alt="Facebook" />
-  </a>
+  <a href="https://www.facebook.com/eitaamar/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" />
+</a>
+
   <a href="https://www.instagram.com/shimul_scofield/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
   </a>
