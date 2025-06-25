@@ -22,20 +22,11 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://x.com/iftikhar15_alam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/deviftikhar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/eitaamar/" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" />
-</a>
-
-  <a href="https://www.instagram.com/shimul_scofield/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
-  </a>
-</p>
+                        <a href="https://twitter.com/https://x.com/iftikhar15_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/iftikhar15_alam" height="30" width="40" /></a>
+                        <a href="https://linkedin.com/in/https://www.linkedin.com/in/deviftikhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deviftikhar/" height="30" width="40" /></a>
+                        <a href="https://fb.com/https://www.facebook.com/eitaamar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eitaamar/" height="30" width="40" /></a>
+                        <a href="https://instagram.com/https://www.instagram.com/shimul_scofield/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shimul_scofield/" height="30" width="40" /></a>
+                    </p>
 
 ---
 
