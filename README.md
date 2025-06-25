@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner" width="100%" height="250" />
+<img src="./banner.png" alt="Banner" width="100%" height="300" />
 <h1 align="center">Hi 👋, I'm Iftikharul Alam</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Tech Explorer from Bangladesh</h3>
 
