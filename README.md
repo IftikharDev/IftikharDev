@@ -8,6 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 - 🔭 I’m currently working at **Programming Hero**
 - 🌱 I’m currently deep diving into **MERN Stack Development**
