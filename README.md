@@ -1,6 +1,9 @@
 <img src="./banner.png" alt="Banner" width="100%" height="400" />
 <h1 align="center">Hi 👋, I'm Iftikharul Alam</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Tech Explorer from Bangladesh</h3>
+<h3 align="center">
+🚀 Full Stack Developer | MERN, Laravel & AI Engineer | RAG & LangChain Explorer
+</h3>
+<!-- <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Tech Explorer from Bangladesh</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iftikhardev&label=Profile%20views&color=0e75b6&style=flat" alt="iftikhardev" />
@@ -8,15 +11,13 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif"  />
 
 ---
-
-### 👨‍💻 About Me
-
-
-- 🔭 I’m currently working at **Programming Hero**
-- 🌱 I’m currently deep diving into **MERN Stack Development**
-- 💬 Ask me about: `Frontend`, `REST APIs`, `React`, `Node.js`
-- 📫 Reach me at: **iftikharalam.shimul@outlook.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1UUksKxrwPld-Xq2-_ZOFvDj06rWZ34QV/view?usp=sharing)
+👨‍💻 About Me
+🔭 I’m currently working at Programming Hero
+🌱 I’m currently deep diving into MERN Stack, Laravel, RAG & AI Applications
+💬 Ask me about: React, Node.js, PHP, Laravel, Python, REST APIs, LangChain, RAG
+🤖 Exploring LLM-powered applications, Retrieval-Augmented Generation (RAG), and AI Automation
+📫 Reach me at: iftikharalam.shimul@outlook.com
+📄 View My Resume
 
 ---
 
